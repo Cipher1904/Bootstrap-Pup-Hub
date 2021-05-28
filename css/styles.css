@@ -56,11 +56,6 @@ padding:0 0 4.5rem;
   position: absolute;
   right: 21%;
 }
-.rotated {
-  height: 550px;
-  width: 550px;
-}
-
 /* Download-button */
 .download-button{
   margin: 5% 3% 5% 0;
@@ -138,8 +133,6 @@ padding:0 0 4.5rem;
   .rotated{
     position: static;
     transform: rotate(0);
-    height: 350px;
-    width: 350px;
   }
   .cta-heading{
     line-height: 1.5;
