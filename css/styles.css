@@ -55,6 +55,8 @@ padding:0 0 4.5rem;
   transform: rotate(25deg);
   position: absolute;
   right: 21%;
+}
+.rotated {
   height: 550px;
   width: 550px;
 }
