@@ -55,6 +55,8 @@ padding:0 0 4.5rem;
   transform: rotate(25deg);
   position: absolute;
   right: 21%;
+  height: 550px;
+  width:550px;
 }
 
 /* Download-button */
@@ -134,6 +136,8 @@ padding:0 0 4.5rem;
   .rotated{
     position: static;
     transform: rotate(0);
+    height: 350px;
+    width:350px;
   }
   .cta-heading{
     line-height: 1.5;
